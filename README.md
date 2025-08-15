@@ -25,10 +25,11 @@
 ---
 
 ### 📂 Featured Projects
-- 🔐 **Password Manager** — Secure password storage with Python encryption
-- 🤖 **WhatsApp/Discord Auto-Responder** — Python bot with LLaMA AI integration
-- 🌊 **Ocean Scene** — Procedural ocean animation in Blender
-- 🥤 **Red Bull Themed Ad** — Blender motion design & product visualization
+- 📈 **Stock Market Alert System** — Real-time price monitoring using APIs with automated email/SMS alerts for price thresholds.
+- ⏳ **Habit Tracker Program** — A console-based daily habit monitoring system that stores and tracks your progress.
+- 🤖 **WhatsApp/Discord Auto-Responder** — Automated messaging bot powered by LLaMA AI for natural and context-aware replies.
+- 🎮 **Python 2D Game** — Custom-made interactive game with animations, music, and improved character visualization.
+- 🌊 **Ocean Scene (Blender)** — Realistic procedural water simulation with cinematic lighting and environment design.
 
 ---
 
