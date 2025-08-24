@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shahid Ali</h1>
-<h3 align="center">A Python Developer, AI Prompt Engineer & 3D Blender Artist</h3>
+<h3 align="center">A Python Developer, Data Scientist & 3D Blender Artist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;AI%20Prompt%20Engineer;Blender%20Animator;Web%20Developer;Always%20Learning...&center=true&width=550&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;AI%20Prompt%20Engineer;Data%Scientist;Blender%20Animator;Always%20Learning...&center=true&width=550&height=45" alt="Typing SVG" />
 </p>
 
 ---
