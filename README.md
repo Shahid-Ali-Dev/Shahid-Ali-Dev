@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahid Ali</h1>
-<h3 align="center">A Python Developer, Data Scientist & 3D Blender Artist</h3>
+<h3 align="center">A Full Stack Python Developer, Ai Prompt Engineer & Data Scientist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;AI%20Prompt%20Engineer;Data%20Scientist;Blender%20Animator;Always%20Learning...&center=true&width=550&height=45" alt="Typing SVG" />
