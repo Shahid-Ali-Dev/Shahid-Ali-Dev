@@ -127,7 +127,7 @@
 
 #### ⚡ [Social Auto Engine](https://automated-social-media-handler.vercel.app/)
 *High-throughput multi-platform automation system dispatching scheduled and instant content across networks.*
-- Unified dispatcher supporting **Facebook, YouTube, Instagram, X (Twitter), Mastodon, Telegram, and Discord**.
+- Unified dispatcher supporting **Facebook, YouTube, Instagram, X (Twitter), Mastodon, Telegram, Discord and a lot more**.
 - Asynchronous media pipeline processing image/video assets via **Cloudinary CDN** with automated retry mechanisms.
 
 ---
