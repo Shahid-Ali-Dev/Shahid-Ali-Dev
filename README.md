@@ -16,10 +16,10 @@
 
 ### 🚀 About Me
 - 🛍️ **Shopify & E-Commerce Developer**: Developed, customized, and optimized **15+ Shopify storefronts**, specializing in custom Liquid architecture, interactive mega-menus, dynamic collection filtering, and multi-theme configurations.
-- 💻 **Full-Stack Engineer**: **11+ months of production experience** engineering SaaS architectures, multi-tenant workspace engines, and scalable REST API services.
+- 💻 **Full-Stack Engineer**: **1 year of production experience** engineering SaaS architectures, multi-tenant workspace engines, and scalable REST API services.
 - ⚡ **Real-Time & Media Systems**: Architected real-time WebSocket communication pipelines (sub-50ms latency) and peer-to-peer WebRTC video/audio suites.
 - 🤖 **Automation & Custom Pipelines**: Engineered automated product scraping/catalog sync engines, asynchronous social distribution dispatchers, and LLM-powered agentic workflow assistants.
-- 🎓 Pursuing higher technical studies in **Computer Science** while delivering remote engineering workflows and leading development projects.
+- 🎓 Pursuing Bachelors in **Computer Science** from Bits Pilani while delivering remote engineering workflows and leading development projects.
 
 ---
 
