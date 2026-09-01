@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shahid Ali</h1>
-<h3 align="center">Full-Stack Software Engineer • Python & React Specialist • E-Commerce & AI Automation</h3>
+<h3 align="center">Full-Stack Software Engineer • Shopify & E-Commerce Developer • Python & React Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Python%20%26%20Django%20Engineer;React%20%26%20TypeScript%20Architect;Real-Time%20WebSockets%20%26%20WebRTC;Shopify%20Automation%20%26%20Custom%20APIs;AI-Powered%20Workflow%20Developer&center=true&width=620&height=45&color=38BDF8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Shopify+%26+Liquid+Theme+Specialist;Full-Stack+Python+%26+Django+Engineer;React+%26+TypeScript+Architect;Shopify+Automation+%26+Custom+APIs;Real-Time+WebSockets+%26+WebRTC&center=true&width=620&height=45&color=38BDF8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,101 +15,120 @@
 ---
 
 ### 🚀 About Me
-- 💻 **Full-Stack Developer** with **11+ months of production experience** architecting high-performance SaaS platforms, multi-tenant workspace systems, and custom automation pipelines.
-- ⚡ **Real-Time & Media Systems**: Built sub-50ms WebSocket communication pipelines and WebRTC peer-to-peer audio/video calling suites.
-- 🛒 **E-Commerce & Backend Automation**: Built and customized **15+ Shopify storefronts**, crafting bespoke Liquid theme sections, mega-menus, and Python data scraping/catalog ingest pipelines.
-- 🤖 **AI Workflow Engineering**: Integrated low-latency LLM endpoints (Groq, open-source models) for automated task decomposition, dynamic timeline mapping, and usage-based credit monetization.
-- 🎓 Currently pursuing higher technical studies in **Computer Science** while leading software development and remote engineering workflows.
+- 🛍️ **Shopify & E-Commerce Developer**: Developed, customized, and optimized **15+ Shopify storefronts**, specializing in custom Liquid architecture, interactive mega-menus, dynamic collection filtering, and multi-theme configurations.
+- 💻 **Full-Stack Engineer**: **11+ months of production experience** engineering SaaS architectures, multi-tenant workspace engines, and scalable REST API services.
+- ⚡ **Real-Time & Media Systems**: Architected real-time WebSocket communication pipelines (sub-50ms latency) and peer-to-peer WebRTC video/audio suites.
+- 🤖 **Automation & Custom Pipelines**: Engineered automated product scraping/catalog sync engines, asynchronous social distribution dispatchers, and LLM-powered agentic workflow assistants.
+- 🎓 Pursuing higher technical studies in **Computer Science** while delivering remote engineering workflows and leading development projects.
 
 ---
 
 ### 🛠️ Tech Stack & Tooling
 
-<table>
-  <tr>
-    <td align="right" width="22%"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify Liquid" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><strong>Backend & APIs</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><strong>Frontend & UI</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-      <img src="https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><strong>Real-Time & Protocols</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><strong>DevOps & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="24%" align="left">Domain</th>
+      <th width="76%" align="left">Technologies, Frameworks & Protocols</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle"><strong>E-Commerce</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify Liquid" />
+        <img src="https://img.shields.io/badge/Shopify_Admin_API-95BF47?style=flat-square&logo=shopify&logoColor=white" alt="Shopify API" />
+        <img src="https://img.shields.io/badge/Theme_Customization-212121?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Theme Dev" />
+        <img src="https://img.shields.io/badge/Storefront_Optimization-FF9900?style=flat-square&logo=speedtest&logoColor=white" alt="Speed Optimization" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Languages</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Backend & Databases</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Frontend & UI</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+        <img src="https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Real-Time & Protocols</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST" />
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>DevOps & Cloud</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-### 📂 Featured Systems & Production Projects
+### 🛍️ Featured Production Shopify Storefronts
+*Custom Liquid implementations, responsive mega menus, catalog ingestion scripts, and performance optimizations across 15+ live client stores:*
 
-#### 🏢 [Shout Sync — Enterprise Workspace Suite](https://shout-sync.vercel.app/)
-*All-in-one collaborative workspace combining multi-tenant project management, real-time messaging, interactive spreadsheets, and video conferencing.*
-- **Core Architecture**: Built with **Django REST Framework (ASGI)**, implementing 4-tier Role-Based Access Control (RBAC) across Workspaces, Teams, Projects, and Tasks.
-- **Real-Time Layer**: Sub-50ms live chat, member presence, and live sheet syncing via **Django Channels + Redis**, paired with peer-to-peer **WebRTC** video/audio calling.
-- **Frontend & AI Engine**: **React (TypeScript) + Material UI** featuring optimistic state updates, and context-aware LLM API automation for task generation and meeting summaries.
+- 🏬 **[Thomas Matthew Designs](https://thomas-matthew-designs.myshopify.com/)** `(Password: beevup)`
+  - Bespoke sections with scroll-triggered animations and multi-column mega menu navigation.
+  - Interactive Dark/Light mode theme switcher.
+  - Custom Python web scraper for automated catalog cleaning, normalization, and bulk product ingestion.
+
+- 🏬 **[Minhnuyet Hardy Interiors](https://minhnuyet-hardy-interiors-tkm43iha.myshopify.com/)** `(Password: eupria)`
+  - Custom Alabaster-based architecture featuring rich micro-interactions and interior design portfolio showcases.
+  - Multi-tiered menu hierarchy with high-resolution automated asset optimization pipelines.
 
 ---
 
-#### 🌐 [Shout Agency Platform](https://shoutotb.com/)
-*High-performance digital agency platform featuring dynamic client routing and dedicated analytical diagnostics engines.*
+### 📂 SaaS Platforms & Featured Systems
+
+#### 🏢 [Shout Sync — All-in-One Enterprise Workspace](https://shout-sync.vercel.app/)
+*Full-featured collaboration suite combining multi-tenant project management, real-time team messaging, interactive spreadsheets, and video calling.*
+- **Backend Architecture**: Built with **Django REST Framework (ASGI)**, featuring 4-tier Role-Based Access Control (RBAC) across Workspaces, Teams, Projects, and Tasks.
+- **Real-Time Engine**: Sub-50ms live chat, member presence, and collaborative sheet syncing via **Django Channels + Redis**, paired with peer-to-peer **WebRTC** audio/video calling.
+- **Frontend & AI Layer**: Modular **React (TypeScript) + Material UI** with optimistic UI updates and context-aware LLM API automation for task generation and meeting summaries.
+
+---
+
+#### 🌐 [Shout Platform & Analytics Engines](https://shoutotb.com/)
+*Digital agency platform with dynamic client routing and dedicated analytical diagnostic tools.*
 - 📈 **[YouTube Analyzer](https://shoutotb.com/youtube-analyzer)**: Channel audit engine parsing video metrics, retention diagnostics, and audience performance scoring.
 - 📸 **[Instagram Analyzer](https://shoutotb.com/instagram-analyzer)**: Media diagnostics tool analyzing profile engagement ratios, reach analytics, and performance signals.
 
 ---
 
 #### ⚡ [Social Auto Engine](https://automated-social-media-handler.vercel.app/)
-*High-throughput multi-platform automation platform dispatching scheduled and instant content across networks.*
+*High-throughput multi-platform automation system dispatching scheduled and instant content across networks.*
 - Unified dispatcher supporting **Facebook, YouTube, Instagram, X (Twitter), Mastodon, Telegram, and Discord**.
 - Asynchronous media pipeline processing image/video assets via **Cloudinary CDN** with automated retry mechanisms.
-
----
-
-#### 🛍️ Featured Production Shopify Storefronts
-*Over 15 custom stores developed with custom Liquid layouts, performance optimizations, and automated catalog ingest:*
-
-- 🏬 **[Thomas Matthew Designs](https://thomas-matthew-designs.myshopify.com/)** `(Password: beevup)`
-  - Bespoke modular sections with scroll-triggered animations and multi-column mega menu navigation.
-  - Dynamic Dark/Light mode theme switcher.
-  - Custom Python web scraper for automated product catalog cleaning, formatting, and batch ingestion.
-
-- 🏬 **[Minhnuyet Hardy Interiors](https://minhnuyet-hardy-interiors-tkm43iha.myshopify.com/)** `(Password: eupria)`
-  - Customized Alabaster-based architecture featuring smooth micro-interactions and interior portfolio showcases.
-  - Bespoke multi-tier navigation menu and high-resolution automated asset optimization pipelines.
 
 ---
 
@@ -133,5 +152,5 @@
 - 🌐 **Portfolio:** [shahid-ali-dev.github.io](https://shahid-ali-dev.github.io/Personal-Portfolio/)
 
 <p align="center">
-  <i>"Architecting resilient systems, scaling real-time workflows, and leveraging AI for practical automation."</i>
+  <i>"Architecting resilient systems, scaling real-time workflows, and building high-performance e-commerce experiences."</i>
 </p>
