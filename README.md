@@ -1,112 +1,93 @@
-<h1 align="center">Hi 👋, I'm Shahid Ali</h1>
-<h3 align="center">Full-Stack Software Engineer • Python & React Specialist • E-Commerce & AI Automation</h3>
+<h1 align="center">Hi 👋, I'm Md. Shahid Ali</h1>
+<h3 align="center">Full-Stack Software Developer & Shopify Systems Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Python%20%26%20Django%20Engineer;React%20%26%20TypeScript%20Architect;Real-Time%20WebSockets%20%26%20WebRTC;Shopify%20Automation%20%26%20Custom%20APIs;AI-Powered%20Workflow%20Developer&center=true&width=620&height=45&color=38BDF8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Django+%26+React+Architect;Shopify+Custom+App+Dev;Python+Automation+Specialist&center=true&width=550&height=45" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://shahid-ali-dev.github.io/Personal-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-shahid--ali--dev.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:alishahid555443@gmail.com"><img src="https://img.shields.io/badge/Email-alishahid555443%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Shahid-Ali-Dev"><img src="https://img.shields.io/badge/GitHub-Shahid--Ali--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:alishahid555443@gmail.com"><img src="https://img.shields.io/badge/Email-alishahid555443%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
+  <a href="tel:+916207431327"><img src="https://img.shields.io/badge/Phone-%2B91%206207431327-green?style=flat-square&logo=whatsapp" alt="Phone"/></a>
+  <a href="https://shahid-ali-dev.github.io/Personal-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-orange?style=flat-square&logo=google-chrome" alt="Portfolio"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 💻 **Full-Stack Developer** with proven experience building complex, production-grade SaaS architectures, multi-tenant workspace platforms, and custom automation pipelines.
-- ⚡ **Specialized in High-Performance Web Apps**: Architecting real-time WebSocket communication, WebRTC audio/video systems, and scalable REST APIs.
-- 🛒 **E-Commerce & Backend Automation**: Developing custom Liquid theme modules, Shopify REST API integrations, and Python data pipelines.
-- 🤖 **AI Application Engineering**: Designing agentic workflows, contextual AI integrations (LLM APIs, prompt engineering), and usage-based credit systems.
-- 🎓 Currently pursuing higher technical studies in **Computer Science** while leading software development and remote engineering workflows.
+### 👨‍💻 About Me
+
+Full-Stack Developer with **11+ months of production experience** delivering end-to-end web architectures, high-performance SaaS tools, and tailored e-commerce platforms.
+
+- 🛠 **Full-Stack SaaS & Web Apps**: 9+ months building production backends (Django REST Framework, PostgreSQL), dynamic interfaces (React, TypeScript, Redux, Material UI), and real-time features (WebSockets, WebRTC).
+- 🛍 **Shopify & E-Commerce Engineering**: Built and customized **15+ Shopify stores**, crafting bespoke Liquid sections, mega menus, dynamic themes, and custom REST API scrapers/import pipelines.
+- ⚡ **Automation & Cross-Platform Integrations**: Designed multi-channel automated engines integrating social APIs, scheduled tasks, and webhook listeners.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠 Tech Stack & Tools
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/Django%20%2F%20DRF-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Liquid](https://img.shields.io/badge/-Shopify_Liquid-95BF47?style=flat-square&logo=shopify&logoColor=white)
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+**UI & Styling**
+![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-  <!-- Real-Time & Protocols -->
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
-
-  <!-- E-Commerce & Cloud -->
-  <img src="https://img.shields.io/badge/Shopify%20Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+**Real-Time, Media & Cloud Infrastructure**
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-### 📂 Featured Systems & Key Projects
+### 🚀 Production Applications & SaaS Platforms
 
-#### 🏢 **Shout Sync — Enterprise-Grade All-in-One Workspace**
-*An integrated collaboration suite combining multi-tenant project management, real-time messaging, collaborative spreadsheets, and native audio/video calls.*
-- **Backend**: Built with **Django REST Framework (ASGI)**, implementing nested Role-Based Access Control (RBAC across Workspaces, Teams, and Projects).
-- **Real-Time Layer**: Engineered sub-50ms live chat and presence channels using **Django Channels & Redis**, along with peer-to-peer **WebRTC** video/audio calling.
-- **Frontend Engine**: Modular **React (TypeScript) + MUI** with optimistic state updates, global cache orchestration, and dynamic interactive grid sheets.
-- **AI Co-Pilot**: Deep contextual AI integration using low-latency LLM endpoints to automate task creation, timeline planning, and meeting extractions.
-
----
-
-#### 📊 **Social Auto Engine & Analytics Suite**
-*A high-throughput API automation and data ingestion platform for cross-platform analytics and social media management.*
-- Architected asynchronous data scrapers and media processing endpoints using **Python & FastAPI**.
-- Integrated automated video streaming, Cloudinary media CDN pipelines, and OAuth2 publishing workflows.
-- Implemented real-time analytical monitors and automated webhook notification alerts.
+| Project | Live URL | Core Features & Architecture |
+| :--- | :--- | :--- |
+| **Shout Sync** | [shout-sync.vercel.app](https://shout-sync.vercel.app/) | All-in-one collaborative workspace with team management, interactive sheets, Kanban boards, and WebRTC video/voice calls. |
+| **Shout Platform** | [shoutotb.com](https://shoutotb.com/) | High-performance agency web platform with dynamic client routing and custom backend integrations. |
+| **YouTube Analyzer** | [shoutotb.com/youtube-analyzer](https://shoutotb.com/youtube-analyzer) | Analytics engine tracking performance metrics, audience retention signals, and content scoring. |
+| **Instagram Analyzer** | [shoutotb.com/instagram-analyzer](https://shoutotb.com/instagram-analyzer) | Media diagnostics tool parsing profile metrics, reach analytics, and automated engagement summaries. |
+| **Social Auto Engine** | [automated-social-media-handler.vercel.app](https://automated-social-media-handler.vercel.app/) | Automated engine dispatching content across Facebook, YouTube, Instagram, X (Twitter), Mastodon, Telegram, and Discord. |
 
 ---
 
-#### 🛍️ **Custom Shopify Ecosystem & Catalog Automation Engine**
-*High-scale e-commerce customization and automated catalog migration tools for premium storefronts.*
-- Developed bespoke **Shopify Liquid** modular sections, dynamic mega-menus, and custom checkout experiences.
-- Wrote asynchronous Python scripts interfacing with **Shopify REST / GraphQL Admin APIs** to automate bulk product imports, inventory syncs, and collection structures.
-- Reduced manual merchandising overhead by 80% through automated catalog validation and schema formatting.
+### 🛍 Featured Shopify Stores
+
+*Over 15 custom stores developed with custom Liquid layouts, performance tuning, and automated catalog processing:*
+
+- 🏬 **[Thomas Matthew Designs](https://thomas-matthew-designs.myshopify.com/)** *(Pass: `beevup`)*
+  - Fully bespoke sections with scroll-triggered animations and responsive mega menu navigation.
+  - Dynamic Dark/Light mode theme toggle.
+  - Automated product scraping, data cleaning, and automated collection ingestion.
+
+- 🏬 **[Minhnuyet Hardy Interiors](https://minhnuyet-hardy-interiors-tkm43iha.myshopify.com/)** *(Pass: `eupria`)*
+  - Built with a customized Alabaster-based architecture featuring rich micro-interactions.
+  - Custom multi-tier mega menu and bespoke interior design collection layout.
+  - High-res automated product catalog processing and asset optimization.
 
 ---
 
-#### 🤖 **AI-Powered Event & Messaging Bots**
-*Context-aware automation bots with structured conversational memory and tool-calling capabilities.*
-- Integrated **LLaMA & open-source LLMs** with messaging APIs for autonomous customer inquiry handling and ticket triage.
-- Deployed real-time stock alert systems with automated SMTP and webhook notification triggers.
-
----
-
-### 📊 GitHub Activity & Insights
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shahid-Ali-Dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Shahid-Ali-Dev&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideLabels=94A3B8&sideNums=38BDF8" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shahid-Ali-Dev&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shahid-Ali-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shahid-Ali-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 📬 Connect With Me
-- 📧 **Email:** [alishahid555443@gmail.com](mailto:alishahid555443@gmail.com)
-- 🌐 **Portfolio:** [shahid-ali-dev.github.io](https://shahid-ali-dev.github.io/Personal-Portfolio/)
-- 💼 **Open to:** High-impact full-stack contracts, remote engineering roles, and custom B2B automation projects.
+### 📬 Get in Touch
 
-<p align="center">
-  <i>"Architecting resilient systems, scaling real-time workflows, and leveraging AI for practical automation."</i>
-</p>
+- **Email**: [alishahid555443@gmail.com](mailto:alishahid555443@gmail.com)
+- **Phone / WhatsApp**: [+91 6207431327](tel:+916207431327)
+- **Portfolio**: [shahid-ali-dev.github.io](https://shahid-ali-dev.github.io/Personal-Portfolio/)
