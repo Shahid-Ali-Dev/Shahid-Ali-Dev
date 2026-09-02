@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahid Ali</h1>
+<h1 align="center">Hi 👋, I'm Md. Shahid Ali</h1>
 <h3 align="center">Full-Stack Software Engineer • Shopify & E-Commerce Developer • Python & React Specialist</h3>
 
 <p align="center">
