@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer • Shopify & E-Commerce Developer • Python & React Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Shopify+%26+Liquid+Theme+Specialist;Full-Stack+Python+%26+Django+Engineer;React+%26+TypeScript+Architect;Shopify+Automation+%26+Custom+APIs;Real-Time+WebSockets+%26+WebRTC&center=true&width=620&height=45&color=38BDF8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Shopify+%26+Liquid+Theme+Specialist;Full-Stack+Python+%26+Django+Engineer;React+%26+TypeScript+Architect;React+Native+%26+AI+App+Builder;Real-Time+WebSockets+%26+WebRTC&center=true&width=620&height=45&color=38BDF8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 - 🛍️ **Shopify & E-Commerce Developer**: Developed, customized, and optimized **15+ Shopify storefronts**, specializing in custom Liquid architecture, interactive mega-menus, dynamic collection filtering, and multi-theme configurations.
 - 💻 **Full-Stack Engineer**: **1 year of production experience** engineering SaaS architectures, multi-tenant workspace engines, and scalable REST API services.
 - ⚡ **Real-Time & Media Systems**: Architected real-time WebSocket communication pipelines (sub-50ms latency) and peer-to-peer WebRTC video/audio suites.
-- 🤖 **Automation & Custom Pipelines**: Engineered automated product scraping/catalog sync engines, asynchronous social distribution dispatchers, and LLM-powered agentic workflow assistants.
-- 🎓 Pursuing Bachelors in **Computer Science** from Bits Pilani while delivering remote engineering workflows and leading development projects.
+- 🤖 **Automation & AI Applications**: Engineered automated product scraping/catalog sync engines, asynchronous social distribution dispatchers, and LLM-powered mobile/web companions (**Top 7 / 50** at the Solace AI Hackathon).
+- 🎓 Pursuing Bachelors in **Computer Science** from BITS Pilani while delivering remote engineering workflows and leading development projects.
 
 ---
 
@@ -57,15 +57,19 @@
       <td>
         <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Frontend & UI</strong></td>
+      <td valign="middle"><strong>Frontend & Mobile</strong></td>
       <td>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
         <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
         <img src="https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
@@ -108,7 +112,22 @@
 
 ---
 
-### 📂 SaaS Platforms & Featured Systems
+### 📂 SaaS Platforms, Mobile & AI Systems
+
+#### 🌿 [Solace AI — AI-Powered Mobile Wellness Companion](https://github.com/Shahid-Ali-Dev/Solace-AI) `🏆 Top 7 / 50 • Certificate of Distinction`
+*Cross-platform mobile wellness application combining animated AI companions, mood-adaptive micro-activities, and cross-session conversational memory.*
+
+<p>
+  <a href="https://github.com/Shahid-Ali-Dev/Solace-AI"><img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Solace AI Repository" /></a>
+  <a href="https://drive.google.com/file/d/1iGs6PmCcecGsctpuTBhzfgqXGNysvUky/view"><img src="https://img.shields.io/badge/Demo_Video-Watch_Walkthrough-EA4335?style=flat-square&logo=googledrive&logoColor=white" alt="Solace AI Demo Video" /></a>
+  <a href="https://drive.google.com/file/d/1C3AtWNwSdnJ42tNKWZTsJ5kcZV7Korzd/view?usp=sharing"><img src="https://img.shields.io/badge/Android_APK-Download_Build-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Solace AI Android APK" /></a>
+</p>
+
+- **Mobile & Interactive UX**: Built with **React Native & Expo**, featuring 6 customizable 60fps animated SVG companions, tactile haptic feedback, guided breathing rhythms (Box, 4-7-8, Physiological Sigh), and interactive touch-ripple reflection cards.
+- **Agentic AI & Memory Layer**: Powered by **Groq LLMs** with persona-driven system prompts, persisted tap-to-send user follow-up chips, and compressed cross-window memory spanning previous chat sessions and mood logs.
+- **Backend & Authentication**: **Node.js + Express + Prisma (PostgreSQL)** REST API supporting native Google Sign-In, email/password authentication, guest sessions, and persistent chat history.
+
+---
 
 #### 🏢 [Shout Sync — All-in-One Enterprise Workspace](https://shout-sync.vercel.app/)
 *Full-featured collaboration suite combining multi-tenant project management, real-time team messaging, interactive spreadsheets, and video calling.*
