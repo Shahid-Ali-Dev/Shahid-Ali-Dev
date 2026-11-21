@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Shahid Ali</h1>
-<h3 align="center">Full-Stack Software Engineer • Shopify & E-Commerce Developer • Python & React Specialist</h3>
+<h3 align="center">Full-Stack Software Engineer • Shopify & E-Commerce Developer • Python, React & React Native Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Shopify+%26+Liquid+Theme+Specialist;Full-Stack+Python+%26+Django+Engineer;React+%26+TypeScript+Architect;React+Native+%26+AI+App+Builder;Real-Time+WebSockets+%26+WebRTC&center=true&width=620&height=45&color=38BDF8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Shopify+%26+Liquid+Theme+Specialist;Full-Stack+Python+%26+Node.js+Engineer;React%2C+TypeScript+%26+React+Native+Builder;LLM+%26+Agentic+Workflow+Architect;Real-Time+WebSockets+%26+WebRTC&center=true&width=620&height=45&color=38BDF8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ### 🚀 About Me
 - 🛍️ **Shopify & E-Commerce Developer**: Developed, customized, and optimized **15+ Shopify storefronts**, specializing in custom Liquid architecture, interactive mega-menus, dynamic collection filtering, and multi-theme configurations.
-- 💻 **Full-Stack Engineer**: **1 year of production experience** engineering SaaS architectures, multi-tenant workspace engines, and scalable REST API services.
+- 💻 **Full-Stack & Mobile Engineer**: **1 year of production experience** engineering SaaS architectures, cross-platform mobile apps, multi-tenant workspace engines, and scalable REST API services.
 - ⚡ **Real-Time & Media Systems**: Architected real-time WebSocket communication pipelines (sub-50ms latency) and peer-to-peer WebRTC video/audio suites.
-- 🤖 **Automation & AI Applications**: Engineered automated product scraping/catalog sync engines, asynchronous social distribution dispatchers, and LLM-powered mobile/web companions (**Top 7 / 50** at the Solace AI Hackathon).
+- 🤖 **Automation & AI Pipelines**: Engineered automated product scraping/catalog sync engines, asynchronous social distribution dispatchers, and context-aware LLM companions.
 - 🎓 Pursuing Bachelors in **Computer Science** from BITS Pilani while delivering remote engineering workflows and leading development projects.
 
 ---
@@ -55,9 +55,9 @@
     <tr>
       <td valign="middle"><strong>Backend & Databases</strong></td>
       <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
@@ -90,6 +90,7 @@
         <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
         <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       </td>
     </tr>
@@ -112,20 +113,21 @@
 
 ---
 
-### 📂 SaaS Platforms, Mobile & AI Systems
+### 📂 SaaS Platforms, Mobile Apps & Featured Systems
 
-#### 🌿 [Solace AI — AI-Powered Mobile Wellness Companion](https://github.com/Shahid-Ali-Dev/Solace-AI) `🏆 Top 7 / 50 • Certificate of Distinction`
-*Cross-platform mobile wellness application combining animated AI companions, mood-adaptive micro-activities, and cross-session conversational memory.*
+#### 🌿 [Solace AI — Intelligent Mobile Wellness Companion](https://github.com/Shahid-Ali-Dev/Solace-AI)
+*Cross-platform AI wellness app combining mood-adaptive micro-activities, persistent multi-session LLM memory, and tactile breathing studios.*
 
 <p>
-  <a href="https://github.com/Shahid-Ali-Dev/Solace-AI"><img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Solace AI Repository" /></a>
-  <a href="https://drive.google.com/file/d/1iGs6PmCcecGsctpuTBhzfgqXGNysvUky/view"><img src="https://img.shields.io/badge/Demo_Video-Watch_Walkthrough-EA4335?style=flat-square&logo=googledrive&logoColor=white" alt="Solace AI Demo Video" /></a>
-  <a href="https://drive.google.com/file/d/1C3AtWNwSdnJ42tNKWZTsJ5kcZV7Korzd/view?usp=sharing"><img src="https://img.shields.io/badge/Android_APK-Download_Build-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Solace AI Android APK" /></a>
+  <a href="https://github.com/Shahid-Ali-Dev/Solace-AI"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Solace AI Repo" /></a>
+  <a href="https://drive.google.com/file/d/1iGs6PmCcecGsctpuTBhzfgqXGNysvUky/view"><img src="https://img.shields.io/badge/Demo_Video-Watch_Walkthrough-EA4335?style=flat-square&logo=googledrive&logoColor=white" alt="Demo Video" /></a>
+  <a href="https://drive.google.com/file/d/1C3AtWNwSdnJ42tNKWZTsJ5kcZV7Korzd/view?usp=sharing"><img src="https://img.shields.io/badge/Android_APK-Download_Build-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android APK" /></a>
+  <a href="YOUR_CERTIFICATE_LINK_HERE"><img src="https://img.shields.io/badge/Certificate-Distinction_Award-F59E0B?style=flat-square&logo=award&logoColor=white" alt="Certificate of Distinction" /></a>
 </p>
 
-- **Mobile & Interactive UX**: Built with **React Native & Expo**, featuring 6 customizable 60fps animated SVG companions, tactile haptic feedback, guided breathing rhythms (Box, 4-7-8, Physiological Sigh), and interactive touch-ripple reflection cards.
-- **Agentic AI & Memory Layer**: Powered by **Groq LLMs** with persona-driven system prompts, persisted tap-to-send user follow-up chips, and compressed cross-window memory spanning previous chat sessions and mood logs.
-- **Backend & Authentication**: **Node.js + Express + Prisma (PostgreSQL)** REST API supporting native Google Sign-In, email/password authentication, guest sessions, and persistent chat history.
+- **Mobile & Interactive UX**: Built with **React Native (Expo)** featuring animated SVG companions with selectable personas, touch-reactive reflection cards, haptic feedback, and guided breathing timers (*Box, 4-7-8, Physiological Sigh*).
+- **Context-Aware AI Engine**: Powered by **Node.js, Prisma, and Groq LLMs**, injecting recent mood logs, wellness goals, and cross-session conversation summaries to generate grounded replies and one-tap follow-up prompts.
+- **Full-Stack Persistence**: End-to-end session retention, Google/Email/Guest authentication, and mood-adaptive micro-journaling backed by PostgreSQL.
 
 ---
 
@@ -148,6 +150,11 @@
 *High-throughput multi-platform automation system dispatching scheduled and instant content across networks.*
 - Unified dispatcher supporting **Facebook, YouTube, Instagram, X (Twitter), Mastodon, Telegram, Discord and a lot more**.
 - Asynchronous media pipeline processing image/video assets via **Cloudinary CDN** with automated retry mechanisms.
+
+---
+
+### 🏆 Recognition & Certifications
+- 🏅 **Certificate of Distinction — Solace AI Hackathon** · Recognized among top submissions for end-to-end AI companion integration, wellness workflows, and mobile execution · [View Certificate](YOUR_CERTIFICATE_LINK_HERE)
 
 ---
 
