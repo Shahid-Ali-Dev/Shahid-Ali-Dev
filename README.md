@@ -146,7 +146,7 @@
 ---
 
 ### 🏆 Honors & Recognition
-- 🎖️ **[Certificate of Distinction — Solace AI Hackathon](YOUR_CERTIFICATE_LINK_HERE)**: Recognized among the top submissions for end-to-end mobile execution and integrating a stateful AI companion with daily wellness workflows.
+- 🎖️ **[Certificate of Distinction — Solace AI Hackathon](https://drive.google.com/file/d/1hTfMoUX9mS5mvwRrvTzCEjhP60DUryfu/view?usp=sharing)**: Recognized among the top submissions for end-to-end mobile execution and integrating a stateful AI companion with daily wellness workflows.
 
 ---
 
